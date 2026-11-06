@@ -1,0 +1,4 @@
+Model,ROC-AUC,Recall,Precision
+Altman Z' (zone < 1.23),0.683,0.427,0.208
+Gradient boosting (cut-off 0.50),0.958,0.631,0.802
+"Gradient boosting (early warning, cut-off 0.002)",0.958,0.864,0.454

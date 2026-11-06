@@ -1,0 +1,11 @@
+,mean |SHAP|
+Operating profit / financial expenses (Attr27),1.2196
+Sales growth (Attr21),1.0798
+Operating expenses / total liabilities (Attr34),0.9134
+Total costs / total sales (Attr58),0.4761
+(Equity - share capital) / total assets (Attr25),0.4157
+Profit on sales / total assets (Attr35),0.3781
+Profit on sales / sales (Attr39),0.3173
+(Gross profit + depreciation) / sales (Attr13),0.316
+EBITDA / total assets (Attr48),0.2973
+Gross profit (3 years) / total assets (Attr24),0.2894
